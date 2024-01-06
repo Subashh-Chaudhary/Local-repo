@@ -1,0 +1,2 @@
+C:\Users\Subash\Desktop\cSharpJourney\User\User\obj\Debug\User.csproj.AssemblyReference.cache
+C:\Users\Subash\Desktop\cSharpJourney\User\User\obj\Debug\User.csproj.CoreCompileInputs.cache

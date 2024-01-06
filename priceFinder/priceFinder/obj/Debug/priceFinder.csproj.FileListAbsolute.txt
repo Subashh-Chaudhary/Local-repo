@@ -1,0 +1,7 @@
+C:\Users\Subash\Desktop\cSharpJourney\priceFinder\priceFinder\obj\Debug\priceFinder.csproj.AssemblyReference.cache
+C:\Users\Subash\Desktop\cSharpJourney\priceFinder\priceFinder\obj\Debug\priceFinder.csproj.CoreCompileInputs.cache
+C:\Users\Subash\Desktop\cSharpJourney\priceFinder\priceFinder\bin\Debug\priceFinder.exe.config
+C:\Users\Subash\Desktop\cSharpJourney\priceFinder\priceFinder\bin\Debug\priceFinder.exe
+C:\Users\Subash\Desktop\cSharpJourney\priceFinder\priceFinder\bin\Debug\priceFinder.pdb
+C:\Users\Subash\Desktop\cSharpJourney\priceFinder\priceFinder\obj\Debug\priceFinder.exe
+C:\Users\Subash\Desktop\cSharpJourney\priceFinder\priceFinder\obj\Debug\priceFinder.pdb

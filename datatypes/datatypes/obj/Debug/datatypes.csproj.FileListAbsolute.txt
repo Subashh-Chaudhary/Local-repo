@@ -1,0 +1,7 @@
+C:\Users\Subash\Desktop\cSharpJourney\datatypes\datatypes\bin\Debug\datatypes.exe.config
+C:\Users\Subash\Desktop\cSharpJourney\datatypes\datatypes\bin\Debug\datatypes.exe
+C:\Users\Subash\Desktop\cSharpJourney\datatypes\datatypes\bin\Debug\datatypes.pdb
+C:\Users\Subash\Desktop\cSharpJourney\datatypes\datatypes\obj\Debug\datatypes.csproj.AssemblyReference.cache
+C:\Users\Subash\Desktop\cSharpJourney\datatypes\datatypes\obj\Debug\datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Subash\Desktop\cSharpJourney\datatypes\datatypes\obj\Debug\datatypes.exe
+C:\Users\Subash\Desktop\cSharpJourney\datatypes\datatypes\obj\Debug\datatypes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Subash\Desktop\cSharpJourney\consoleInput\consoleInput\bin\Debug\consoleInput.exe.config
+C:\Users\Subash\Desktop\cSharpJourney\consoleInput\consoleInput\bin\Debug\consoleInput.exe
+C:\Users\Subash\Desktop\cSharpJourney\consoleInput\consoleInput\bin\Debug\consoleInput.pdb
+C:\Users\Subash\Desktop\cSharpJourney\consoleInput\consoleInput\obj\Debug\consoleInput.csproj.AssemblyReference.cache
+C:\Users\Subash\Desktop\cSharpJourney\consoleInput\consoleInput\obj\Debug\consoleInput.csproj.CoreCompileInputs.cache
+C:\Users\Subash\Desktop\cSharpJourney\consoleInput\consoleInput\obj\Debug\consoleInput.exe
+C:\Users\Subash\Desktop\cSharpJourney\consoleInput\consoleInput\obj\Debug\consoleInput.pdb

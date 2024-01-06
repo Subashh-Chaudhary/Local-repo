@@ -1,0 +1,7 @@
+C:\Users\Subash\Desktop\cSharpJourney\IncrementDecrement\IncrementDecrement\bin\Debug\IncrementDecrement.exe.config
+C:\Users\Subash\Desktop\cSharpJourney\IncrementDecrement\IncrementDecrement\bin\Debug\IncrementDecrement.exe
+C:\Users\Subash\Desktop\cSharpJourney\IncrementDecrement\IncrementDecrement\bin\Debug\IncrementDecrement.pdb
+C:\Users\Subash\Desktop\cSharpJourney\IncrementDecrement\IncrementDecrement\obj\Debug\IncrementDecrement.csproj.AssemblyReference.cache
+C:\Users\Subash\Desktop\cSharpJourney\IncrementDecrement\IncrementDecrement\obj\Debug\IncrementDecrement.csproj.CoreCompileInputs.cache
+C:\Users\Subash\Desktop\cSharpJourney\IncrementDecrement\IncrementDecrement\obj\Debug\IncrementDecrement.exe
+C:\Users\Subash\Desktop\cSharpJourney\IncrementDecrement\IncrementDecrement\obj\Debug\IncrementDecrement.pdb

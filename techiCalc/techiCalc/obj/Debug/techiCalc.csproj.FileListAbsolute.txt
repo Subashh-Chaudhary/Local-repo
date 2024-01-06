@@ -1,0 +1,7 @@
+C:\Users\Subash\Desktop\cSharpJourney\techiCalc\techiCalc\bin\Debug\techiCalc.exe.config
+C:\Users\Subash\Desktop\cSharpJourney\techiCalc\techiCalc\bin\Debug\techiCalc.exe
+C:\Users\Subash\Desktop\cSharpJourney\techiCalc\techiCalc\bin\Debug\techiCalc.pdb
+C:\Users\Subash\Desktop\cSharpJourney\techiCalc\techiCalc\obj\Debug\techiCalc.csproj.AssemblyReference.cache
+C:\Users\Subash\Desktop\cSharpJourney\techiCalc\techiCalc\obj\Debug\techiCalc.csproj.CoreCompileInputs.cache
+C:\Users\Subash\Desktop\cSharpJourney\techiCalc\techiCalc\obj\Debug\techiCalc.exe
+C:\Users\Subash\Desktop\cSharpJourney\techiCalc\techiCalc\obj\Debug\techiCalc.pdb
